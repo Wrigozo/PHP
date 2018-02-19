@@ -1,0 +1,6 @@
+﻿1,Attila,222
+2,Kata,yxc
+3,László,qwe
+4,Ákos,aaa
+5,Béla,ert
+6,Meri,kabbe
